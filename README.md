@@ -16,3 +16,8 @@ npm run dev
 docker build -t {yourname}/{projectname}
 
 ```
+
+## To Run docker image 
+```
+docker run -p 8080:5000 {imageId}
+```
