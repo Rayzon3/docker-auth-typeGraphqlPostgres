@@ -1,4 +1,4 @@
-# Docker Nodejs-jwt-Auth
+# Docker graphQL-Auth
 This is my first attempt to create a docker image from a project. This is only to test creating and running docker images locally on macOS.
 
 ## To Get the Repo
